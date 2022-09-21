@@ -2,8 +2,8 @@
 ## EXPERIMENT 1
    DDL COMAND CREATE,ALTER,DROP()(https://github.com/Mani9976/DBMS_192111595/blob/main/DBMS.sql,https://github.com/Mani9976/DBMS_192111595/blob/main/inserting%20data%20in%20table.sql)
 ## EXPERIMENT 2
-   DDL COMANDS PRIMERY KEY()(https://github.com/Mani9976/DBMS_192111595/blob/main/forigen%20key%20(1).txt,
-   FORIGEN KEY()
+   DDL COMANDS PRIMERY KEY(),FORIGEN KEY()(https://github.com/Mani9976/DBMS_192111595/blob/main/forigen%20key%20(1).txt,https://github.com/Mani9976/DBMS_192111595/blob/main/primary%20key.sql)
+   
 ## EXPERIMENT 3
    DML COMAND INSERT,SELECT()
 ## EXPERIMENT 4
