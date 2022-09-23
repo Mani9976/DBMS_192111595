@@ -1,6 +1,6 @@
 # DBMS_192111595
 ## EXPERIMENT 1
-   DDL COMAND CREATE,ALTER,DROP()
+   DDL COMAND CREATE,ALTER,DROP(https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%201)
 ## EXPERIMENT 2
    DDL COMANDS PRIMERY KEY,FORIGEN KEY(https://github.com/Mani9976/DBMS_192111595/blob/main/forigen%20key%20(1).txt, https://github.com/Mani9976/DBMS_192111595/blob/main/primary%20key.sql)
 ## EXPERIMENT 3
