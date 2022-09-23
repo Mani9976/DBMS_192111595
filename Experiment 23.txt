@@ -1,0 +1,22 @@
+create database general_hospital;
+use general_hospital;
+create table patients(
+      pat_id int auto_increment primary key,
+      pat_name varchar(30),
+      pat_state varchar(20),
+      disease varchar(20)
+
+);
+insert into patients
+values(1,'ganesh','ap','bp'),(2,'karthik','tamil nadu','cancer'),(3,'pardhu','kerela','sugar'),(4,'naveen','ap','memory loss');
+create table doctors(
+       doc_id int auto_increment primary key,
+       doc_name varchar(20),
+       doc_exp int,
+       phone_no varchar(10)
+);
+insert into doctors
+values(1,'chinnu',5,986687055),(2,'mani',6,950587055),(3,'sai',10,799565929);
+update doctors
+set doc_exp = 20
+where doc_id= 2;
