@@ -6,7 +6,7 @@
 ## EXPERIMENT 3
    DML COMAND INSERT,SELECT(https://github.com/Mani9976/DBMS_192111595/blob/main/dml%20comands.txt)
 ## EXPERIMENT 4
-   DML COMAND UPDATE,DELETE(https://github.com/Mani9976/DBMS_192111595/blob/main/dml%20comands.txt)
+   DML COMAND UPDATE,DELETE(https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%204.txt)
 ## EXPERIMENT 5
    SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING(https://github.com/Mani9976/DBMS_192111595/blob/main/experiment%205.txt)
 ## EXPERIMENT 6
