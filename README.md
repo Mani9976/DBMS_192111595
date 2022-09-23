@@ -37,11 +37,11 @@
 ## EXPERIMENT 18
    HIGH LEVEL PROGRAMMING EXTENSIONS-TRIGGERS(https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%2018.txt)
 ## EXPERIMENT 19
-   (https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%2019.txt)
+   DATABASE CONNECTIVITY-USING SIMPLE MYSQL(https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%2019.txt)
 ## EXPERIMENT 20
    DATABASE CONNECTIVITY-USING JAVA & MYSQL(https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%2020.txt)
 ## EXPERIMENT 21
-   (https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%2021.txt)
+   CASE SCENARIO ADVANCED SQL QUERIES INPLEMENTATION FROM HRM DATABASE(https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%2021.txt)
 ## EXPERIMENT 22
    CASE SCENARIO SQL QUERIES IMPLEMENTATION FOR BOOK PUBLISHING COMPANY(https://github.com/Mani9976/DBMS_192111595/blob/main/Experiment%2022.txt)
 ## EXPERIMENT 23
